@@ -1,5 +1,9 @@
 # 💫 About Me:
-🛍️ Freelance Shopify Store Assistant – building and optimizing eCommerce experiences<br>🎓 Computer Science Student at the University of Mindanao<br>💻 Passionate about Web Development, especially JavaScript, Vue.js, and Laravel<br>🌱 Learning: Tailwind CSS, Vue.js, and advanced JS<br>📂 Check out my Java Projects Repo – sharing projects to help others learn.
+🛍️ Freelance Shopify Store Assistant – building and optimizing eCommerce experiences<br>
+🎓 Computer Science Student at the University of Mindanao<br>
+💻 Passionate about Web Development, especially JavaScript, Vue.js, and Laravel<br>
+🌱 Learning: Tailwind CSS, Vue.js, and advanced JS<br>
+📂 Check out my [Java Projects Repo](https://github.com/eej-sinining/java-projects) – sharing projects to help others learn.
 
 
 ## 🌐 Socials:
