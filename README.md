@@ -1,4 +1,4 @@
-# 💫 Hi, Im Ean!:
+# 💫 Hi, Im Ean!
 🛍️ Freelance Shopify Store Assistant – building and optimizing eCommerce experiences<br>
 🎓 Computer Science Student at the University of Mindanao<br>
 💻 Passionate about Web Development, especially JavaScript, Vue.js, and Laravel<br>
