@@ -3,7 +3,7 @@
 🎓 Computer Science Student at the University of Mindanao<br>
 💻 Passionate about Web Development, especially JavaScript, Vue.js, and Laravel<br>
 🌱 Learning: Tailwind CSS, Vue.js, and advanced JS<br>
-📂 Check out my [Java Projects Repo](https://github.com/eej-sinining/java-projects) – sharing projects to help others learn.
+📂 Check out my [Basic mix-console-based-projects](https://github.com/eej-sinining/java-projects) – sharing projects to help others learn.
 
 
 ## 🌐 Socials:
