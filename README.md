@@ -31,18 +31,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h5 align="left">🛍️ Freelance Shopify Store Assistant – building and optimizing eCommerce experiences<br>🎓 Computer Science Student at the University of Mindanao<br>💻 Passionate about Web Development, especially JavaScript, Vue.js, and Laravel<br>🌱 Learning: Tailwind CSS, Vue.js, and advanced JS</h5>
+<h3 align="left">🛍️ Freelance Shopify Store Assistant – building and optimizing eCommerce experiences<br>🎓 Computer Science Student at the University of Mindanao<br>💻 Passionate about Web Development, especially JavaScript, Vue.js, and Laravel<br>🌱 Learning: Tailwind CSS, Vue.js, and advanced JS</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
+<marquee width="60%" direction="right" height="100px">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
   <img width="12" />
@@ -74,10 +75,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
 </div>
+</marquee>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
