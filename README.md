@@ -32,7 +32,11 @@
 
 ###
 
-<h3 align="left">🛍️ Freelance Shopify Store Assistant – building and optimizing eCommerce experiences<br>🎓 Computer Science Student at the University of Mindanao<br>💻 Passionate about Web Development, especially JavaScript, Vue.js, and Laravel<br>🌱 Learning: Tailwind CSS, Vue.js, and advanced JS</h3>
+<p align="left">
+  🛍️ Freelance Shopify Store Assistant – building and optimizing eCommerce experiences<br>
+  🎓 Computer Science Student at the University of Mindanao<br>
+  💻 Passionate about Web Development, especially JavaScript, Vue.js, and Laravel<br>
+  🌱 Learning: Tailwind CSS, Vue.js, and advanced JS</h3>
 
 ###
 
@@ -69,8 +73,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="37" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
 </div>
 </marquee>
 
