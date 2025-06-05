@@ -38,7 +38,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Ephisshy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ean-endrew-jade-sinining-828893337) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]("mailto:eej.sinining@gmail.com")
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eej.sinining@gmail.com)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
