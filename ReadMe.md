@@ -35,8 +35,7 @@
 🛒 Freelance experience: Shopify store builder
 🚀 Focus: Backend development, leveling up to full-stack
 
-Always learning, building, and turning ideas into real projects! ✨
-<br>
+<br>Always learning, building, and turning ideas into real projects! ✨
 
 
 ## 🌐 Socials:
