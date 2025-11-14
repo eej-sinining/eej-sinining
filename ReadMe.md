@@ -29,10 +29,14 @@
 ###
 
 <h1>💫 About Me:</h1>
-🛍️ Freelance Shopify Store Assistant – building and optimizing eCommerce experiences<br>
-🎓 Computer Science Student at the University of Mindanao<br>
-💻 Passionate about Web Development
-<br>🌱 Learning: Tailwind CSS, Vue.js,advanced JS and Laravel
+👋 Hi! I’m a BSCS student & part-time Junior Software Engineer.
+
+💻 Tech stack: Django | ASP.NET
+🛒 Freelance experience: Shopify store builder
+🚀 Focus: Backend development, leveling up to full-stack
+
+Always learning, building, and turning ideas into real projects! ✨
+<br>
 
 
 ## 🌐 Socials:
@@ -43,7 +47,9 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
