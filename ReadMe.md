@@ -31,7 +31,7 @@
 <h1>💫 About Me:</h1>
 👋 Hi! I’m a BSCS student & part-time Junior Software Engineer.
 
-💻 Tech stack: Django | ASP.NET
+💻 Tech stack: Django | ASP.NET <br>
 🛒 Freelance experience: Shopify store builder <br>
 🚀 Focus: Backend development, leveling up to full-stack
 
